@@ -1,0 +1,72 @@
+{
+  "mirror/sonic-r/__external__/bbcdn.githack.com/johnbones/john/raw/main/Sonic R (USA, Brazil).zip": {
+    "size": 603942118,
+    "parts": [
+      {
+        "path": "mirror/sonic-r/__external__/bbcdn.githack.com/johnbones/john/raw/main/Sonic R (USA, Brazil).zip.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sonic-r/__external__/bbcdn.githack.com/johnbones/john/raw/main/Sonic R (USA, Brazil).zip.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sonic-r/__external__/bbcdn.githack.com/johnbones/john/raw/main/Sonic R (USA, Brazil).zip.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sonic-r/__external__/bbcdn.githack.com/johnbones/john/raw/main/Sonic R (USA, Brazil).zip.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sonic-r/__external__/bbcdn.githack.com/johnbones/john/raw/main/Sonic R (USA, Brazil).zip.part005",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sonic-r/__external__/bbcdn.githack.com/johnbones/john/raw/main/Sonic R (USA, Brazil).zip.part006",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sonic-r/__external__/bbcdn.githack.com/johnbones/john/raw/main/Sonic R (USA, Brazil).zip.part007",
+        "size": 63942118
+      }
+    ]
+  },
+  "mirror/gta-i/gta.zip": {
+    "size": 651685430,
+    "parts": [
+      {
+        "path": "mirror/gta-i/gta.zip.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/gta-i/gta.zip.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/gta-i/gta.zip.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/gta-i/gta.zip.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/gta-i/gta.zip.part005",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/gta-i/gta.zip.part006",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/gta-i/gta.zip.part007",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/gta-i/gta.zip.part008",
+        "size": 21685430
+      }
+    ]
+  }
+}
