@@ -1,0 +1,79 @@
+{
+  "slug": "getting-over-it-with-bennett-foddy",
+  "title": "Getting Over It with Bennett Foddy",
+  "type": "HTML",
+  "developer": "Bennett Foddy",
+  "description": "A game I made for a certain kind of person to hurt them. Getting Over It with Bennett Foddy is a punishing climbing game, a homage to Jazzuo's 2002 B-Game classic 'Sexy Hiking'. You move the hammer with the mouse, and that's all there is. With practice, you'll be able to jump, swing, climb, and fly. Great mysteries and a wonderful reward await the master hikers who reach the top of the mountain.",
+  "tags": [
+    "Indie",
+    "Difficult",
+    "Singleplayer",
+    "Physics"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "c75db71a-ed5a-4ed9-9cf2-5c73fb513c79",
+  "sourceVersion": "1.7",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/c75db71a-ed5a-4ed9-9cf2-5c73fb513c79/1.7/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/c75db71a-ed5a-4ed9-9cf2-5c73fb513c79/1.7/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/c75db71a-ed5a-4ed9-9cf2-5c73fb513c79/1.7/index.html",
+  "status": "done",
+  "sizeBytes": 692192340,
+  "assetCount": 88,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/c75db71a-ed5a-4ed9-9cf2-5c73fb513c79/1.7/Build/GettingOverIt.data",
+    "https://playobsidian.com/cdn/assets/html/c75db71a-ed5a-4ed9-9cf2-5c73fb513c79/1.7/Build/GettingOverIt.wasm",
+    "https://playobsidian.com/GettingOverIt.loader.js",
+    "https://playobsidian.com/GettingOverIt.framework.js",
+    "https://playobsidian.com/cdn/assets/html/c75db71a-ed5a-4ed9-9cf2-5c73fb513c79/1.7/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c75db71a-ed5a-4ed9-9cf2-5c73fb513c79/1.7/Build/GettingOverIt.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c75db71a-ed5a-4ed9-9cf2-5c73fb513c79/1.7/Build/GettingOverIt.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c75db71a-ed5a-4ed9-9cf2-5c73fb513c79/1.7/Build/GettingOverIt.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c75db71a-ed5a-4ed9-9cf2-5c73fb513c79/1.7/Build/GettingOverIt.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/GettingOverIt.loader.js",
+      "error": "HTTP 404 for https://playobsidian.com/GettingOverIt.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/GettingOverIt.framework.js",
+      "error": "HTTP 404 for https://playobsidian.com/GettingOverIt.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c75db71a-ed5a-4ed9-9cf2-5c73fb513c79/1.7/Build/build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c75db71a-ed5a-4ed9-9cf2-5c73fb513c79/1.7/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T09:53:39.715Z",
+  "verifiedAt": "2026-11-16T15:37:56.848Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Getting Over It",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0348,
+    "rendered": true
+  }
+}
