@@ -1,0 +1,130 @@
+{
+  "slug": "gta-i",
+  "title": "GTA I",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/gta/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/gta/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/gta.webp",
+  "baseUrl": "https://truffled.lol/games/gta/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/gta/index.html",
+  "status": "done",
+  "sizeBytes": 166710356,
+  "assetCount": 11,
+  "known404": [
+    "https://cdn.jsdelivr.net/images/icons/bing.ico",
+    "https://cdn.jsdelivr.net/images/icons/desmos.ico",
+    "https://cdn.jsdelivr.net/images/icons/gmail.ico",
+    "https://cdn.jsdelivr.net/images/icons/google.ico",
+    "https://cdn.jsdelivr.net/images/icons/googleclassroom.ico",
+    "https://cdn.jsdelivr.net/images/icons/chromenewtab.ico",
+    "https://cdn.jsdelivr.net/images/icons/googledrive.ico",
+    "https://cdn.jsdelivr.net/images/icons/wikipedia.ico"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/bing.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/bing.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/desmos.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/desmos.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/gmail.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/gmail.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/google.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/google.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/googleclassroom.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/googleclassroom.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/chromenewtab.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/chromenewtab.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/googledrive.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/googledrive.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/icons/wikipedia.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/icons/wikipedia.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/storage.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/storage.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/emulator.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/emulator.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/gamepad.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/gamepad.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/nipplejs.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/nipplejs.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/shaders.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/shaders.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/GameManager.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/GameManager.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/socket.io.min.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/socket.io.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/compression.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/compression.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/.json",
+      "status": 403
+    },
+    {
+      "url": "(crawl)",
+      "error": "crawl stalled; abandoned hung downloads",
+      "status": 0
+    },
+    {
+      "url": "https://truffled.lol/games/gta/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:28:07.443Z"
+}
